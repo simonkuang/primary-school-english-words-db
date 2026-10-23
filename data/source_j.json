@@ -1,0 +1,3274 @@
+[
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 1,
+"word": "hi",
+"meaning": "嘿，喂，你好",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 2,
+"word": "I",
+"meaning": "我",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 3,
+"word": "be (am,is,are)",
+"meaning": "是",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 4,
+"word": "what",
+"meaning": "什么",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 5,
+"word": "your",
+"meaning": "你的；你们的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 6,
+"word": "name",
+"meaning": "名字",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 7,
+"word": "hello",
+"meaning": "喂，哈啰，你好",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 8,
+"word": "my",
+"meaning": "我的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 9,
+"word": "goodbye",
+"meaning": "再见",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 10,
+"word": "have",
+"meaning": "有，拥有",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 11,
+"word": "a (an)",
+"meaning": "一（个）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 12,
+"word": "nice",
+"meaning": "令人愉快的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 13,
+"word": "day",
+"meaning": "一天",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 14,
+"word": "good",
+"meaning": "好的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 15,
+"word": "morning",
+"meaning": "早晨，上午",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 16,
+"word": "Ms",
+"meaning": "女士",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 17,
+"word": "stand",
+"meaning": "站立",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 18,
+"word": "stand up",
+"meaning": "站起来",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 19,
+"word": "sit",
+"meaning": "坐",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 20,
+"word": "sit down",
+"meaning": "坐下",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 21,
+"word": "open",
+"meaning": "打开",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 22,
+"word": "book",
+"meaning": "书",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 23,
+"word": "close",
+"meaning": "合上",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 24,
+"word": "point",
+"meaning": "指",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 25,
+"word": "say",
+"meaning": "说",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 26,
+"word": "read",
+"meaning": "阅读",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 27,
+"word": "listen",
+"meaning": "听",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "welcome",
+"seq": 28,
+"word": "write",
+"meaning": "写",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 29,
+"word": "let's = let us",
+"meaning": "让我们",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 30,
+"word": "friend",
+"meaning": "朋友",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 31,
+"word": "to",
+"meaning": "（用于动词、名词或形容词后，是意思完整）；向，到，往",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 32,
+"word": "meet",
+"meaning": "认识，结识",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 33,
+"word": "you",
+"meaning": "你；你们",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 34,
+"word": "play",
+"meaning": "玩，玩耍",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 35,
+"word": "happy",
+"meaning": "高兴的，快乐的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 36,
+"word": "new",
+"meaning": "新的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 37,
+"word": "do",
+"meaning": "（构成疑问句或否定句）；做",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 38,
+"word": "they",
+"meaning": "他们",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 39,
+"word": "welcome",
+"meaning": "欢迎",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 40,
+"word": "everyone",
+"meaning": "每个人，人人",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 41,
+"word": "nine",
+"meaning": "九",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 42,
+"word": "she",
+"meaning": "她",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 43,
+"word": "too",
+"meaning": "也",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 44,
+"word": "we",
+"meaning": "我们",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 45,
+"word": "from",
+"meaning": "从",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 46,
+"word": "the",
+"meaning": "（用于表示正在谈论一个已经提到过、已经知道，或是唯一存在的人或物）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 47,
+"word": "twin",
+"meaning": "双胞胎中的一个",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 48,
+"word": "he",
+"meaning": "他",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 49,
+"word": "come",
+"meaning": "来；来到",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 50,
+"word": "and",
+"meaning": "然后，接着，和",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 51,
+"word": "oh",
+"meaning": "噢",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 52,
+"word": "no",
+"meaning": "不，不行",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 53,
+"word": "help",
+"meaning": "帮助，帮忙",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 54,
+"word": "here",
+"meaning": "在这里",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 55,
+"word": "here you are",
+"meaning": "给你",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 56,
+"word": "thank",
+"meaning": "感谢，向......表示谢意",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 57,
+"word": "together",
+"meaning": "一起，一块儿",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 58,
+"word": "OK",
+"meaning": "行，可以",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 59,
+"word": "great",
+"meaning": "棒极的，极好的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 60,
+"word": "song",
+"meaning": "歌曲",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 61,
+"word": "dear",
+"meaning": "亲爱的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 62,
+"word": "sing",
+"meaning": "唱，歌唱",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 63,
+"word": "now",
+"meaning": "现在",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 64,
+"word": "know",
+"meaning": "认识",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 65,
+"word": "our",
+"meaning": "我们的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 66,
+"word": "everyone",
+"meaning": "每个人，人人",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 67,
+"word": "with",
+"meaning": "在......一起",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 1",
+"seq": 68,
+"word": "me",
+"meaning": "我",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 69,
+"word": "school",
+"meaning": "学校",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 70,
+"word": "thing",
+"meaning": "东西",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 71,
+"word": "pack",
+"meaning": "收拾好",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 72,
+"word": "pen",
+"meaning": "钢笔",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 73,
+"word": "pencil",
+"meaning": "铅笔",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 74,
+"word": "pencil case",
+"meaning": "笔袋；铅笔盒",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 75,
+"word": "bag",
+"meaning": "袋；包",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 76,
+"word": "for",
+"meaning": "为了",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 77,
+"word": "ruler",
+"meaning": "尺子，直尺",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 78,
+"word": "eraser",
+"meaning": "橡皮",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 79,
+"word": "this",
+"meaning": "这，这个",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 80,
+"word": "in",
+"meaning": "在......里",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 81,
+"word": "schoolbag",
+"meaning": "书包",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 82,
+"word": "it",
+"meaning": "它",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 83,
+"word": "not",
+"meaning": "不，不是",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 84,
+"word": "that",
+"meaning": "那，那个",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 85,
+"word": "yes",
+"meaning": "是，对",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 86,
+"word": "guess",
+"meaning": "猜，猜测",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 87,
+"word": "find",
+"meaning": "发现，找到",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 88,
+"word": "lost and found",
+"meaning": "失物招领",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 89,
+"word": "bye",
+"meaning": "再见，拜拜",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 90,
+"word": "kid",
+"meaning": "小孩，儿童",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 91,
+"word": "take care of sb/sth",
+"meaning": "照看（照料）某人/某物",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 92,
+"word": "there",
+"meaning": "在那里",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 93,
+"word": "please",
+"meaning": "请",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 94,
+"word": "back",
+"meaning": "回到原处",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 95,
+"word": "come back",
+"meaning": "回来",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 96,
+"word": "look",
+"meaning": "看，瞧，望",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 2",
+"seq": 97,
+"word": "look at sb/sth",
+"meaning": "看某人/某物",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 98,
+"word": "colourful",
+"meaning": "颜色鲜艳的；色彩丰富的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 99,
+"word": "world",
+"meaning": "世界",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 100,
+"word": "hooray",
+"meaning": "好哇",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 101,
+"word": "umbrella",
+"meaning": "伞；雨伞",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 102,
+"word": "clothes",
+"meaning": "衣服",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 103,
+"word": "red",
+"meaning": "红色（的）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 104,
+"word": "pink",
+"meaning": "粉红色的（的）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 105,
+"word": "green",
+"meaning": "绿色（的）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 106,
+"word": "yellow",
+"meaning": "黄色（的）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 107,
+"word": "orange",
+"meaning": "橙色（的）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 108,
+"word": "blue",
+"meaning": "蓝色（的）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 109,
+"word": "purple",
+"meaning": "紫色（的）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 110,
+"word": "rainbow",
+"meaning": "彩虹",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 111,
+"word": "want",
+"meaning": "想要",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 112,
+"word": "balloon",
+"meaning": "气球",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 113,
+"word": "colour",
+"meaning": "颜色",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 114,
+"word": "can",
+"meaning": "能，会",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 115,
+"word": "see",
+"meaning": "看见，看到",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 116,
+"word": "right",
+"meaning": "正确的，对的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 117,
+"word": "first",
+"meaning": "第一的；首先；最初",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 118,
+"word": "magical",
+"meaning": "美妙的；有魔力的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 119,
+"word": "fun",
+"meaning": "有趣的，逗乐的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 120,
+"word": "black",
+"meaning": "黑色（的）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 121,
+"word": "so",
+"meaning": "这么，如此",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 122,
+"word": "many",
+"meaning": "许多；大量",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 123,
+"word": "picture",
+"meaning": "画，图画",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 124,
+"word": "today",
+"meaning": "今天",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 3",
+"seq": 125,
+"word": "paint",
+"meaning": "画，作画",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 126,
+"word": "number",
+"meaning": "数；数字",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 127,
+"word": "count",
+"meaning": "数数",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 128,
+"word": "how",
+"meaning": "多少；怎样；如何",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 129,
+"word": "bird",
+"meaning": "鸟",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 130,
+"word": "one",
+"meaning": "一",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 131,
+"word": "two",
+"meaning": "二",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 132,
+"word": "three",
+"meaning": "三",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 133,
+"word": "four",
+"meaning": "四",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 134,
+"word": "five",
+"meaning": "五",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 135,
+"word": "six",
+"meaning": "六",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 136,
+"word": "seven",
+"meaning": "七",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 137,
+"word": "eight",
+"meaning": "八",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 138,
+"word": "ten",
+"meaning": "十",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 139,
+"word": "eleven",
+"meaning": "十一",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 140,
+"word": "twelve",
+"meaning": "十二",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 141,
+"word": "rope",
+"meaning": "绳",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 142,
+"word": "who",
+"meaning": "谁，什么人",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 143,
+"word": "make",
+"meaning": "制作",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 144,
+"word": "Chinese knot",
+"meaning": "中国结",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 145,
+"word": "beautiful",
+"meaning": "美丽的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 146,
+"word": "only",
+"meaning": "仅仅",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 147,
+"word": "amazing",
+"meaning": "令人惊讶的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 148,
+"word": "show",
+"meaning": "给......看",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 149,
+"word": "baby",
+"meaning": "幼崽；雏鸟",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 150,
+"word": "cheep",
+"meaning": "吱吱（或唧唧）的叫声",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 151,
+"word": "egg",
+"meaning": "蛋",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 152,
+"word": "hungry",
+"meaning": "饥饿的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 153,
+"word": "around",
+"meaning": "环绕，在（......）周围",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 154,
+"word": "all",
+"meaning": "全部，所有",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 155,
+"word": "all around",
+"meaning": "处处，到处",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 156,
+"word": "big",
+"meaning": "大的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 157,
+"word": "little",
+"meaning": "小的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 4",
+"seq": 158,
+"word": "everywhere",
+"meaning": "在各个地方；处处",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 159,
+"word": "family",
+"meaning": "家庭；家人",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 160,
+"word": "dad (father)",
+"meaning": "爸爸",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 161,
+"word": "mum (mother)",
+"meaning": "妈妈",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 162,
+"word": "brother",
+"meaning": "哥哥；弟弟",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 163,
+"word": "sister",
+"meaning": "姐姐；妹妹",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 164,
+"word": "grandpa (grandfather)",
+"meaning": "祖父；外祖父",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 165,
+"word": "grandma (grandmother)",
+"meaning": "祖母；外祖母",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 166,
+"word": "but",
+"meaning": "但是，然而",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 167,
+"word": "people",
+"meaning": "人；人们",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 168,
+"word": "story",
+"meaning": "故事",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 169,
+"word": "cap",
+"meaning": "帽子",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 170,
+"word": "worry",
+"meaning": "担心",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 171,
+"word": "on",
+"meaning": "在......上面",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 172,
+"word": "come on",
+"meaning": "快点；加油",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 173,
+"word": "photo",
+"meaning": "照片，相片",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 174,
+"word": "love",
+"meaning": "爱，关爱",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 175,
+"word": "daddy",
+"meaning": "爸爸",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 176,
+"word": "mummy",
+"meaning": "妈妈",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 177,
+"word": "where",
+"meaning": "在哪里",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 178,
+"word": "dog",
+"meaning": "狗",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 179,
+"word": "box",
+"meaning": "盒；箱",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 180,
+"word": "daddy",
+"meaning": "爸爸",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 181,
+"word": "mummy",
+"meaning": "妈妈",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 182,
+"word": "where",
+"meaning": "在哪里",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 183,
+"word": "dog",
+"meaning": "狗",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 5",
+"seq": 184,
+"word": "box",
+"meaning": "盒；箱",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 185,
+"word": "sweet",
+"meaning": "甜蜜的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 186,
+"word": "home",
+"meaning": "家",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 187,
+"word": "game",
+"meaning": "游戏",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 188,
+"word": "room",
+"meaning": "房间",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 189,
+"word": "living room",
+"meaning": "客厅",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 190,
+"word": "bedroom",
+"meaning": "卧室",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 191,
+"word": "bathroom",
+"meaning": "浴室，卫生间",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 192,
+"word": "kitchen",
+"meaning": "厨房",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 193,
+"word": "dining room",
+"meaning": "餐厅",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 194,
+"word": "door",
+"meaning": "门",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 195,
+"word": "chair",
+"meaning": "椅子",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 196,
+"word": "think",
+"meaning": "想，认为",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 197,
+"word": "under",
+"meaning": "在......下面；在......底下",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 198,
+"word": "bed",
+"meaning": "床",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 199,
+"word": "toy",
+"meaning": "玩具",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 200,
+"word": "miaow",
+"meaning": "咪，喵（猫叫声）",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 201,
+"word": "table",
+"meaning": "桌子",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 202,
+"word": "cat",
+"meaning": "猫",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 203,
+"word": "ball",
+"meaning": "球",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 204,
+"word": "their",
+"meaning": "他们的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 205,
+"word": "apple",
+"meaning": "苹果",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 206,
+"word": "share",
+"meaning": "共用；分享",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 207,
+"word": "put",
+"meaning": "放",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 208,
+"word": "cooking",
+"meaning": "做饭",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 209,
+"word": "sun",
+"meaning": "太阳",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 210,
+"word": "like",
+"meaning": "喜欢",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 211,
+"word": "run",
+"meaning": "跑",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3A",
+"unit": "Unit 6",
+"seq": 212,
+"word": "lucky",
+"meaning": "幸运的",
+"source_url": "https://yyld.51jiaoxi.com/sanshang/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 1,
+"word": "animal",
+"meaning": "动物",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 2,
+"word": "panda",
+"meaning": "大熊猫",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 3,
+"word": "elephant",
+"meaning": "象",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 4,
+"word": "bear",
+"meaning": "熊",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 5,
+"word": "giraffe",
+"meaning": "长颈鹿",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 6,
+"word": "monkey",
+"meaning": "猴",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 7,
+"word": "them",
+"meaning": "他们；她们；它们",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 8,
+"word": "draw",
+"meaning": "画，绘画",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 9,
+"word": "tiger",
+"meaning": "老虎，虎",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 10,
+"word": "strong",
+"meaning": "强壮的，力气大的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 11,
+"word": "short",
+"meaning": "个子矮的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 12,
+"word": "white",
+"meaning": "白的，白色的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 13,
+"word": "brown",
+"meaning": "棕色的；褐色的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 14,
+"word": "tall",
+"meaning": "高的，高大的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 15,
+"word": "him",
+"meaning": "他；它（指雄性动物）",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 16,
+"word": "ostrich",
+"meaning": "鸵鸟",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 17,
+"word": "fast",
+"meaning": "快的，快速的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 18,
+"word": "chameleon",
+"meaning": "变色龙",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 19,
+"word": "small",
+"meaning": "小的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 20,
+"word": "lion",
+"meaning": "狮子",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 21,
+"word": "cute",
+"meaning": "可爱的，漂亮的，逗人喜爱的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 22,
+"word": "out",
+"meaning": "往外，向外，出来",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 23,
+"word": "zoo",
+"meaning": "动物园",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 24,
+"word": "go",
+"meaning": "走，去",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 25,
+"word": "zebra",
+"meaning": "斑马",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 26,
+"word": "move",
+"meaning": "移动",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 27,
+"word": "road",
+"meaning": "路，道路",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 28,
+"word": "dance",
+"meaning": "跳舞",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 29,
+"word": "along",
+"meaning": "向前",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 30,
+"word": "which",
+"meaning": "哪一个；哪些",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 31,
+"word": "word",
+"meaning": "字，词，单词",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 32,
+"word": "stone",
+"meaning": "石头",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 33,
+"word": "hat",
+"meaning": "帽子",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit1",
+"seq": 34,
+"word": "shoe",
+"meaning": "鞋",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 35,
+"word": "body",
+"meaning": "身体",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 36,
+"word": "head",
+"meaning": "头，头部",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 37,
+"word": "eye",
+"meaning": "眼睛",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 38,
+"word": "ear",
+"meaning": "耳朵",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 39,
+"word": "mouth",
+"meaning": "嘴，口",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 40,
+"word": "nose",
+"meaning": "鼻子",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 41,
+"word": "touch",
+"meaning": "触摸，碰",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 42,
+"word": "hand",
+"meaning": "手",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 43,
+"word": "arm",
+"meaning": "手臂，上肢",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 44,
+"word": "leg",
+"meaning": "腿",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 45,
+"word": "foot",
+"meaning": "（复数feet）脚",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 46,
+"word": "toe",
+"meaning": "脚趾",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 47,
+"word": "get",
+"meaning": "获得，得到",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 48,
+"word": "snowy",
+"meaning": "多雪的，积雪的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 49,
+"word": "child",
+"meaning": "（复数children）儿童，小孩",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 50,
+"word": "work",
+"meaning": "事情，工作",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 51,
+"word": "snowman",
+"meaning": "雪人",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 52,
+"word": "long",
+"meaning": "长的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 53,
+"word": "rock",
+"meaning": "石头，石子",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 54,
+"word": "cool",
+"meaning": "时髦的，酷的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 55,
+"word": "best",
+"meaning": "最好的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 56,
+"word": "part",
+"meaning": "部分",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 57,
+"word": "well",
+"meaning": "嗯，这个；健康的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 58,
+"word": "hear",
+"meaning": "听见",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 59,
+"word": "smell",
+"meaning": "闻到，嗅到",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 60,
+"word": "talk",
+"meaning": "讨论，商谈",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 61,
+"word": "eat",
+"meaning": "吃",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 62,
+"word": "hey",
+"meaning": "嘿，喂",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 63,
+"word": "stop",
+"meaning": "停止，终止",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 64,
+"word": "important",
+"meaning": "重要的，重大的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 65,
+"word": "team",
+"meaning": "队",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 66,
+"word": "dream",
+"meaning": "梦",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 67,
+"word": "ask",
+"meaning": "问，提问",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 68,
+"word": "answer",
+"meaning": "回答，答复",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 69,
+"word": "hair",
+"meaning": "头发",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 70,
+"word": "different",
+"meaning": "不同的，不一样的，有差异的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit2",
+"seq": 71,
+"word": "face",
+"meaning": "脸",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 72,
+"word": "yummy",
+"meaning": "美味的，很好吃的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 73,
+"word": "food",
+"meaning": "食物",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 74,
+"word": "strawberry",
+"meaning": "草莓",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 75,
+"word": "tomato",
+"meaning": "番茄，西红柿",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 76,
+"word": "noodle",
+"meaning": "面条",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 77,
+"word": "carrot",
+"meaning": "胡萝卜",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 78,
+"word": "chicken",
+"meaning": "鸡肉；鸡",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 79,
+"word": "fish",
+"meaning": "鱼肉；鱼",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 80,
+"word": "rice",
+"meaning": "米；米饭",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 81,
+"word": "meat",
+"meaning": "肉",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 82,
+"word": "fruit",
+"meaning": "水果",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 83,
+"word": "vegetable",
+"meaning": "蔬菜",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 84,
+"word": "salad",
+"meaning": "沙拉",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 85,
+"word": "banana",
+"meaning": "香蕉",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 86,
+"word": "bean",
+"meaning": "豆子",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 87,
+"word": "cucumber",
+"meaning": "黄瓜",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 88,
+"word": "then",
+"meaning": "那么；然后，接下来",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 89,
+"word": "about",
+"meaning": "关于",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 90,
+"word": "what about…",
+"meaning": "……怎么样",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 91,
+"word": "grape",
+"meaning": "葡萄",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 92,
+"word": "juice",
+"meaning": "汁",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 93,
+"word": "why",
+"meaning": "为什么",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 94,
+"word": "early",
+"meaning": "早的；提早，提前",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 95,
+"word": "breakfast",
+"meaning": "早餐，早饭",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 96,
+"word": "time",
+"meaning": "时间",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 97,
+"word": "still",
+"meaning": "还，仍然",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 98,
+"word": "ready",
+"meaning": "准备好的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 99,
+"word": "corn",
+"meaning": "玉米",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 100,
+"word": "lunch",
+"meaning": "午餐",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 101,
+"word": "very",
+"meaning": "很，非常",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 102,
+"word": "much",
+"meaning": "大量",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 103,
+"word": "afternoon",
+"meaning": "下午，午后",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 104,
+"word": "tea",
+"meaning": "茶；茶叶",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 105,
+"word": "afternoon tea",
+"meaning": "下午茶",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 106,
+"word": "every",
+"meaning": "每，每逢，每隔",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 107,
+"word": "week",
+"meaning": "星期，周",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 108,
+"word": "tree",
+"meaning": "树",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 109,
+"word": "milk",
+"meaning": "奶，牛奶",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 110,
+"word": "cupcake",
+"meaning": "杯形蛋糕",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 111,
+"word": "sandwich",
+"meaning": "三明治，夹心面包",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 112,
+"word": "beef",
+"meaning": "牛肉",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 113,
+"word": "dumpling",
+"meaning": "水饺",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 114,
+"word": "hot",
+"meaning": "热的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 115,
+"word": "hot dog",
+"meaning": "热狗",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 116,
+"word": "sushi",
+"meaning": "寿司",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit3",
+"seq": 117,
+"word": "cake",
+"meaning": "蛋糕",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 118,
+"word": "hobby",
+"meaning": "业余爱好，嗜好",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 119,
+"word": "free",
+"meaning": "空闲的，有空的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 120,
+"word": "after",
+"meaning": "在……后",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 121,
+"word": "swim",
+"meaning": "游泳",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 122,
+"word": "a lot",
+"meaning": "大量，许多",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 123,
+"word": "these",
+"meaning": "这些（this的复数形式）",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 124,
+"word": "tai chi",
+"meaning": "太极",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 125,
+"word": "his",
+"meaning": "他的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 126,
+"word": "insect",
+"meaning": "昆虫",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 127,
+"word": "man",
+"meaning": "成年男子，男人",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 128,
+"word": "learn",
+"meaning": "学习",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 129,
+"word": "plant",
+"meaning": "植物",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 130,
+"word": "when",
+"meaning": "什么时候",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 131,
+"word": "question",
+"meaning": "问题，疑问",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 132,
+"word": "watch",
+"meaning": "观察",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 133,
+"word": "study",
+"meaning": "研究；仔细察看",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 134,
+"word": "mantis",
+"meaning": "螳螂",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 135,
+"word": "stay",
+"meaning": "停留，逗留，留下",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 136,
+"word": "interesting",
+"meaning": "有趣的，吸引人的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 137,
+"word": "grow",
+"meaning": "成长，长大",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 138,
+"word": "grow up",
+"meaning": "长大",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 139,
+"word": "country",
+"meaning": "国家",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 140,
+"word": "robot",
+"meaning": "机器人",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 141,
+"word": "kite",
+"meaning": "风筝",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 142,
+"word": "skate",
+"meaning": "滑冰，溜冰",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 143,
+"word": "ice",
+"meaning": "冰",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 144,
+"word": "ski",
+"meaning": "滑雪",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit4",
+"seq": 145,
+"word": "garden",
+"meaning": "做园艺工作；花园",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 146,
+"word": "tick-tock",
+"meaning": "滴答声",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 147,
+"word": "tell",
+"meaning": "告诉，告知",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 148,
+"word": "clock",
+"meaning": "时钟",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 149,
+"word": "o'clock",
+"meaning": "点钟",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 150,
+"word": "fifteen",
+"meaning": "十五",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 151,
+"word": "thirty",
+"meaning": "三十",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 152,
+"word": "forty-five",
+"meaning": "四十五",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 153,
+"word": "dinner",
+"meaning": "正餐，主餐",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 154,
+"word": "half",
+"meaning": "一半，半",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 155,
+"word": "past",
+"meaning": "晚于；在……之后",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 156,
+"word": "half past one/two...",
+"meaning": "1点半 / 2点半等",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 157,
+"word": "urgh",
+"meaning": "呸，呸",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 158,
+"word": "homework",
+"meaning": "家庭作业，功课",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 159,
+"word": "need",
+"meaning": "需要",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 160,
+"word": "activity",
+"meaning": "活动",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 161,
+"word": "her",
+"meaning": "她的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 162,
+"word": "class",
+"meaning": "课；班级",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 163,
+"word": "evening",
+"meaning": "傍晚；晚上",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit5",
+"seq": 164,
+"word": "call",
+"meaning": "（给……）打电话",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 165,
+"word": "Monday",
+"meaning": "星期一",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 166,
+"word": "Tuesday",
+"meaning": "星期二",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 167,
+"word": "Wednesday",
+"meaning": "星期三",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 168,
+"word": "Thursday",
+"meaning": "星期四",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 169,
+"word": "Friday",
+"meaning": "星期五",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 170,
+"word": "Saturday",
+"meaning": "星期六",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 171,
+"word": "Sunday",
+"meaning": "星期日",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 172,
+"word": "park",
+"meaning": "公园",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 173,
+"word": "visit",
+"meaning": "看望，拜访",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 174,
+"word": "lesson",
+"meaning": "课，课程",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 175,
+"word": "football",
+"meaning": "足球",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 176,
+"word": "art",
+"meaning": "美术，艺术",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 177,
+"word": "subject",
+"meaning": "学科",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 178,
+"word": "something",
+"meaning": "某物；某事",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 179,
+"word": "idea",
+"meaning": "想法，主意",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 180,
+"word": "soon",
+"meaning": "不久，即刻，很快",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 181,
+"word": "teach",
+"meaning": "教，教授",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 182,
+"word": "English",
+"meaning": "英语",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 183,
+"word": "card",
+"meaning": "卡片",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 184,
+"word": "busy",
+"meaning": "忙的，忙碌的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 185,
+"word": "old",
+"meaning": "年老的；相识很久的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 186,
+"word": "some",
+"meaning": "一些，若干",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 187,
+"word": "bookmark",
+"meaning": "书签",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 188,
+"word": "stick",
+"meaning": "木棍，拐杖",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 189,
+"word": "sure",
+"meaning": "当然，好的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 190,
+"word": "flower",
+"meaning": "花，花朵",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 191,
+"word": "afterschool",
+"meaning": "课外的",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 192,
+"word": "club",
+"meaning": "俱乐部",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 193,
+"word": "piano",
+"meaning": "钢琴",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 194,
+"word": "basketball",
+"meaning": "篮球",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 195,
+"word": "computer",
+"meaning": "计算机；电脑",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 196,
+"word": "music",
+"meaning": "音乐",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+},
+{
+"book": "3B",
+"unit": "Unit6",
+"seq": 197,
+"word": "science",
+"meaning": "科学",
+"source_url": "https://yyld.51jiaoxi.com/sanxia/wybsq_danci.html"
+}
+]

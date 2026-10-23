@@ -1,0 +1,20 @@
+# 下载的网页缓存（可用 scripts/fetch_pages.py 重新下载）
+pages/
+
+# 旧版（老教纲）资料，不入库
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# SQLite 临时文件
+*.db-journal
+*.db-wal
+*.db-shm
+
+# 系统与编辑器
+.DS_Store
+*.swp
+*~
